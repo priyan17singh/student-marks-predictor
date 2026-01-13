@@ -1,6 +1,6 @@
-# 🎓 Student Marks Predictor  
+# 🎓 PredictEd 
 
-**Student Marks Predictor** is a simple web application that uses **machine learning to predict student marks** based on their input data.  
+**PredictEd** is a simple web application that uses **machine learning to predict student marks** based on their input data.  
 It helps students, teachers, and learners **experiment with ML predictions** in a fun and interactive way! 🧠✨  
 
 ---
